@@ -1,0 +1,2 @@
+frase = input()
+print("eu")
