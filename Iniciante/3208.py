@@ -1,4 +1,4 @@
-for e in range(20):
+while True:
     K, L = map(int, input().split())
     if K == 0 and L == 0:
         break;
